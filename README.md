@@ -1,4 +1,6 @@
-# Assets-Original
+# Assets Original
+
+RAW files
 
 ## SF1 
 - All rips from sprites-resource and their respective ripper
